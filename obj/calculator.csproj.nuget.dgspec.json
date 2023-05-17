@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Terminal\\calculator\\calculator.csproj": {}
+    "D:\\Terminal\\calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "D:\\Terminal\\calculator\\calculator.csproj": {
+    "D:\\Terminal\\calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Terminal\\calculator\\calculator.csproj",
-        "projectName": "calculator",
-        "projectPath": "D:\\Terminal\\calculator\\calculator.csproj",
+        "projectUniqueName": "D:\\Terminal\\calculator\\Calculator.csproj",
+        "projectName": "Calculator",
+        "projectPath": "D:\\Terminal\\calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\pprav\\.nuget\\packages\\",
         "outputPath": "D:\\Terminal\\calculator\\obj\\",
         "projectStyle": "PackageReference",
